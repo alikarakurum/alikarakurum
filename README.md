@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @alikarakurum
+- 👀 I’m interested in developing software projects that are used to improve project related processes and solve problems. Innovation and creative solutions are always my cup of tea.
+- 🌱 I’m currently learning .Net framework, also I am examining design patterns to improve my developing skills.
+- I have used;
+  - C Language For: Developing Arduino projects includes controlling actuators, reading sensors ext. 
+  - Python Language For: Machine learning applications and developing computer graphic softwares.
+  - Dart Language For: Creating mobile applications via Flutter for enterprising attempts. 
+  - C# Language For: Windows Form aplications and I am improving my skills to use C# language with .Net framework. 
+- 💞️ I’m looking to collaborate on software programming/computer graphics/artificial intelligence projects.
+- 📫 You can reach me on: "alikarakurum.dev@gmail.com"
